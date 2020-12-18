@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme) => ({ //Recibe como parametro el theme pers
       height: 40,
     },
     list: {
-      width: 250,
+      width: 251,
     },
   }));
 
