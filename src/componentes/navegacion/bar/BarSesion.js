@@ -26,12 +26,6 @@ const useStyles = makeStyles((theme) => ({ //Recibe como parametro el theme pers
     list: {
       width: 250,
     },
-    listItemText: {
-      fontSize: "14px",
-      fontWeight: 600,
-      paddingLeft: "15px",
-      color: "#212121",
-    },
   }));
 
 const BarSesion = () => {
